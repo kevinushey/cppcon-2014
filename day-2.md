@@ -7,7 +7,7 @@ on airplanes (e.g. the Joint Strike Fighter)?
 ### Ada vs. C++
 
 Seems strange to abandon
-[`ada`](http://en.wikipedia.org/wiki/Ada_(programming_language) in favour of
+[`ada`](http://en.wikipedia.org/wiki/Ada_(programming_language)) in favour of
 the 'expert-friendly' language `C++`.
 
 - Ada tools in decline
